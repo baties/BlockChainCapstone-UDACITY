@@ -1,6 +1,6 @@
 
 const SolnSquareVerifier = artifacts.require("SolnSquareVerifier");
-var ERC721MintableComplete = artifacts.require('DimejiERC721Token');
+var ERC721MintableComplete = artifacts.require('BatisERC721Token');
 const proof = require("./proof");
 
 contract('TestSolnSquareVerifier', async(accounts) => {

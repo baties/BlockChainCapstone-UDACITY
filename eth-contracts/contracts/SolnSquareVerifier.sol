@@ -5,7 +5,7 @@ import './verifier.sol';
 import './ERC721Mintable.sol';
 
 // TODO define another contract named SolnSquareVerifier that inherits from your ERC721Mintable class
-contract SolnSquareVerifier is DimejiERC721Token, Verifier{
+contract SolnSquareVerifier is BatisERC721Token, Verifier{
 
 
 // TODO define a solutions struct that can hold an index & an address

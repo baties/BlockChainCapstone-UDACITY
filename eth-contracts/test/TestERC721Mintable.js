@@ -1,4 +1,4 @@
-var ERC721MintableComplete = artifacts.require('DimejiERC721Token');
+var ERC721MintableComplete = artifacts.require('BatisERC721Token');
 
 contract('TestERC721Mintable', accounts => {
 
